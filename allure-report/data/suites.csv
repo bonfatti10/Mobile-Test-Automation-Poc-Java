@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Feb 25 22:05:51 EST 2024","Sun Feb 25 22:05:55 EST 2024","3746","","com.bonfatti.tests.InvestimentMenuTest","","com.bonfatti.tests.InvestimentMenuTest","testLogin","Quando o usuario fizer login com sucesso e clicar em Renda Fixa ele deve ver o menu investimento Renda Fixa",""

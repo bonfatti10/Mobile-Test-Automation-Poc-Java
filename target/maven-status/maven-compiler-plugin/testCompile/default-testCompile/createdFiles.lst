@@ -1,0 +1,12 @@
+com/pagbank/screens/HomeScreen.class
+com/pagbank/screens/BaseScreen.class
+com/pagbank/settings/CheckAppium.class
+com/pagbank/tests/InvestimentMenuTest.class
+com/pagbank/actions/PinRegistrationAction.class
+com/pagbank/screens/PinRegistrationScreen.class
+com/pagbank/tests/BaseTest.class
+com/pagbank/Hooks.class
+com/pagbank/settings/CheckMaven.class
+com/pagbank/screens/LoginScreen.class
+com/pagbank/actions/LoginAction.class
+com/pagbank/actions/HomeAction.class
